@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is the [frontend of](https://github.com/Nyame-Wolf/hello-rails-back-end-)
 
 ## Available Scripts
 
